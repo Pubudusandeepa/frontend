@@ -2,7 +2,7 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <h1>Hello react</h1>
+        <h1>pubudu sandeepa</h1>
       </header>
     </div>
   );
